@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fb_background">#18191a</color>
+    <color name="fb_surface">#242526</color>
+    <color name="fb_blue">#2e89ff</color>
+    <color name="fb_text_primary">#e4e6eb</color>
+    <color name="fb_text_secondary">#b0b3b8</color>
+    <color name="fb_divider">#3e4042</color>
+    <color name="fb_button_secondary">#3a3b3c</color>
+</resources>
