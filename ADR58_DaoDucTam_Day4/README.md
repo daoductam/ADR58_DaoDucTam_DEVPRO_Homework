@@ -14,7 +14,6 @@
 
 ## Giao diện ứng dụng
 ![Hotel Detail Demo](app/src/main/res/drawable/img_4.png) 
-*(Lưu ý: Thay thế đường dẫn ảnh demo bằng ảnh chụp màn hình thực tế của bạn để hiển thị trên GitHub)*
 
 ## Công nghệ sử dụng
 *   Ngôn ngữ: Java
